@@ -2,7 +2,7 @@
 ## _Chatting Bot Like Design (Whatsapp like interface)_
 
 
-- [Running Site](https://vinayak-09.github.io/)
+- [Running Site](https://yeremia15.github.io/yeremiaPortofolio/)
 
 ## Technologies Used
 
@@ -30,5 +30,3 @@
 
 
 <br>
-
-**Free Software, Hell Yeah!**
