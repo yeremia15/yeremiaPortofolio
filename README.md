@@ -17,8 +17,7 @@
 - Lightweighted
 - Social media links
 - Download resume.
-- Map support for address
-- Random replies for hi, bye, i love you.
+- Random replies for hi, bye.
 
 <br><br>
 
