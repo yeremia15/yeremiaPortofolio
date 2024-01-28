@@ -1,5 +1,5 @@
 # Attractive Portfolio Website
-## _Chatting Bot Like Design (Whatsapp like interface)_
+## _(Whatsapp like interface)_
 
 
 - [Running Site](https://yeremia15.github.io/yeremiaPortofolio/)
