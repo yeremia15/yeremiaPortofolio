@@ -75,7 +75,7 @@ function waitAndResponce(inputText) {
     switch (inputText.toLowerCase().trim()) {
         case "intro":
             setTimeout(() => {
-                sendTextMessage("Hello there 👋🏻,<br><br>My name is <span class='bold'><a class='alink'>Yeremia Yosia Robert</a>.</span><br><br>Currently, I am employed as an IT Project Coordinator at PT Electronic Data Interchange Indonesia (EDII) for handling project : <br> Maintenance and Enhancement of Customs Excise Information System Automation 4.0 (CEISA 4.0) with PROSPERA. <br><br>I have a strong passion for various aspects of Computer Systems & Engineering, particularly in Coding & Database<br><br>I am enthusiastic about pursuing a career that allows me to apply my knowledge and experiences while further expanding my skills in a dynamic and stable work environment. <br><br>Send <span class='bold'>'help'</span> to know more about me.<br>");
+                sendTextMessage("Hello there 👋🏻,<br><br>My name is <span class='bold'><a class='alink'>Yeremia Yosia Robert</a>.</span><br><br>Currently, I am employed as an IT Project Coordinator at PT Electronic Data Interchange Indonesia (EDII) for handling project : <br> Maintenance and Enhancement of Customs Excise Information System Automation 4.0 (CEISA 4.0) with PROSPERA. <br><br>I have a strong passion for various aspects for the field of Information and Technologies<br><br>I am enthusiastic about pursuing a career that allows me to apply my knowledge and experiences while further expanding my skills in a dynamic and stable work environment. <br><br>Send <span class='bold'>'help'</span> to know more about me.<br>");
             }, 2000);
             break;
         case "help":
