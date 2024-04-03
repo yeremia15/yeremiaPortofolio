@@ -89,7 +89,7 @@ function waitAndResponce(inputText) {
             break;
 
         case "experiences":
-            sendTextMessage("PT Electronic Data Interchanges Indonesia (EDII)<br>Location : Jakarta, Indonesia<br>Position : IT Project Coordinator (Jun 2023 - Now)<br><br>PT TER Solusindo (AIMSIS)<br>Location : Jakarta, Indonesia<br>Position : <br>Project Manager (Feb 2022 - Jun 2023)<br>Support Engineer (Dec 2021 - Feb 2022)<br>System Consultant & TS (Aug 2020 - Dec 2021)");
+            sendTextMessage("PT Pegadaian<br>Location : Jakarta, Indonesia<br>Position : Scrum Master (Mar 2024 - Now)<br><br>PT Electronic Data Interchanges Indonesia (EDII)<br>Location : Jakarta, Indonesia<br>Position : IT Project Coordinator (Jun 2023 - Mar 2024)<br><br>PT TER Solusindo (AIMSIS)<br>Location : Jakarta, Indonesia<br>Position : <br>Project Manager (Feb 2022 - Jun 2023)<br>Support Engineer (Dec 2021 - Feb 2022)<br>System Consultant & TS (Aug 2020 - Dec 2021)");
             break;
             
         case "education":
