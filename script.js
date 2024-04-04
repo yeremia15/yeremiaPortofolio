@@ -91,14 +91,14 @@ function waitAndResponce(inputText) {
         case "experiences":
             sendTextMessage("PT Pegadaian<br>Location : Jakarta, Indonesia<br>Position : Scrum Master (Mar 2024 - Now)<br><br>PT Electronic Data Interchanges Indonesia (EDII)<br>Location : Jakarta, Indonesia<br>Position : IT Project Coordinator (Jun 2023 - Mar 2024)<br><br>PT TER Solusindo (AIMSIS)<br>Location : Jakarta, Indonesia<br>Position : <br>Project Manager (Feb 2022 - Jun 2023)<br>Support Engineer (Dec 2021 - Feb 2022)<br>System Consultant & TS (Aug 2020 - Dec 2021)");
             break;
-            
+
         case "education":
             sendTextMessage("I already graduate from the University of Esa Unggul with a major in Information Systems from the Faculty of Computer Science<br>Passing Year : 2023<br>Result in GPA (IPK): 3.70/4.00");
             break;
 
-        // case "address":
-        //     sendTextMessage(addressString);
-        //     break;
+            // case "address":
+            //     sendTextMessage(addressString);
+            //     break;
         case "clear":
             clearChat();
             break;
